@@ -6,8 +6,8 @@ I'm a Software Engineer at Marsh McLennan, where I help build a robust property 
 
 During my undergraduate years, I explored the intersection of machine learning and computer vision through projects like image captioning with VGG-16 and GloVe, Twitter sentiment analysis using LSTM, and POS tagging with HMM. I also worked on OpenCV-based image processing and optimization problems. I’m passionate about backend development and intelligent ML systems, with a strong focus on clean, high-performance solutions. Always open to exciting opportunities that push me to build smarter and better
 
-[![LinkedIn: jos-katiyare-aa4a94194](https://img.shields.io/badge/-jos-katiyare-aa4a94194-blue?style=flat-square&logo=Github&logoColor=white&link=https://www.linkedin.com/in/jos-katiyare-aa4a94194/)](https://www.linkedin.com/in/jos-katiyare-aa4a94194/)  
-[![GitHub relaxxpls](https://img.shields.io/github/followers/jos-k19?label=follow&style=social)](https://github.com/jos-k19)
+[![LinkedIn: josh](https://img.shields.io/badge/-josh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jos-katiyare-aa4a94194/)](https://www.linkedin.com/in/jos-katiyare-aa4a94194/)
+[![GitHub: josh](https://img.shields.io/github/followers/jos-k19?label=follow&style=social)](https://github.com/jos-k19)
 
 - 🌱 I’m currently working on springboot microservices and working with real-time data systems.
 - 🧠 Actively exploring Large Language Models (LLMs), Agentic AI, and Retrieval-Augmented Generation (RAG).
