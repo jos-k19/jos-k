@@ -2,16 +2,18 @@
 
 ## Last Updated 2025
 
-I’m currently a Software Engineer at Marsh McLennan, contributing to cutting-edge property risk analytics platforms. I am passionate about exploring the world of backend development, machine learning, and deep learning.
+I’m currently a Software Engineer at **Marsh McLennan**, contributing to cutting-edge property risk analytics platforms.  
+Previously, I gained experience in **machine learning and deep learning** during my internship at **HDFC Bank**, working on real-world data-driven solutions.
 
-[![GitHub: jos-k19](https://img.shields.io/badge/-jos--k19-blue?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jos-k19)](https://github.com/jos-k19)
+[![GitHub: jos-k19](https://img.shields.io/badge/-jos--k19-blue?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jos-k19)](https://github.com/jos-k19)  
 [![GitHub relaxxpls](https://img.shields.io/github/followers/jos-k19?label=follow&style=social)](https://github.com/jos-k19)
 
-- 🌱 I’m currently focused on optimizing microservices and working with real-time data systems at Marsh McLennan.
-- 💬 Let’s chat! Feel free to reach out if you have questions or need advice.
-- 📫 How to reach me: [joshkatiyare1903@gmail.com](mailto:joshkatiyare1903@gmail.com)
-- ❤️ Deeply invested in clean code, machine learning, and open-source contributions!
-- ⚡ Fun fact: ChatGPT once wrote a poem about neural networks that left even a machine learning expert speechless. (Maybe it was *that* good!)
+- 🌱 I’m currently working on springboot microservices and working with real-time data systems.
+- 🧠 Actively exploring Large Language Models (LLMs), Agentic AI, and Retrieval-Augmented Generation (RAG).
+- ❤️ Passionate about clean code, building intelligent systems, and contributing to the open-source ecosystem.
+- 💬 Let’s chat! I’d love to connect if you’re curious about backend systems, ML, or AI.
+- ⚡ Fun fact: I once used OpenAI tools to build a mini project in record time—AI pair programming is *legit*.
+- 📫 Reach out to me at: [joshkatiyare1903@gmail.com](mailto:joshkatiyare1903@gmail.com)
 
 ## Languages and Tools
 
