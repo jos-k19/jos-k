@@ -13,7 +13,7 @@ During my undergraduate years, I explored the intersection of machine learning a
 - 🧠 Actively exploring Large Language Models (LLMs), Agentic AI, and Retrieval-Augmented Generation (RAG).
 - ❤️ Passionate about clean code, building intelligent systems, and contributing to the open-source ecosystem.
 - 💬 Let’s chat! I’d love to connect if you’re curious about backend systems, ML, or AI.
-- ⚡ Fun fact: I once used OpenAI tools to build a mini project in record time—AI pair programming is *legit*.
+- ⚡ Fun fact: Git, The only tool where you can go from "everything's fine" to "merge conflicts" in seconds.
 - 📫 Reach out to me at: [joshkatiyare1903@gmail.com](mailto:joshkatiyare1903@gmail.com)
 
 ## Languages and Tools
